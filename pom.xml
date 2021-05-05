@@ -6,8 +6,8 @@
 
     <groupId>org.example</groupId>
     <artifactId>codigo-base</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <name>examen</name>
+    <version>1.0</version>
+    <name>practica</name>
     <description>codigo base</description>
     <packaging>jar</packaging>
 
